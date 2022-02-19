@@ -1,0 +1,234 @@
+@font-face {
+    font-family: 'Mangueira Alt';
+    src: url('MangueiraAlt-Thin.eot');
+    src: local('Mangueira Alt Thin'), local('MangueiraAlt-Thin'),
+        url('MangueiraAlt-Thin.eot?#iefix') format('embedded-opentype'),
+        url('MangueiraAlt-Thin.woff2') format('woff2'),
+        url('MangueiraAlt-Thin.woff') format('woff'),
+        url('MangueiraAlt-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira';
+    src: url('Mangueira-Black.eot');
+    src: local('Mangueira Black'), local('Mangueira-Black'),
+        url('Mangueira-Black.eot?#iefix') format('embedded-opentype'),
+        url('Mangueira-Black.woff2') format('woff2'),
+        url('Mangueira-Black.woff') format('woff'),
+        url('Mangueira-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira Alt';
+    src: url('MangueiraAlt-Light.eot');
+    src: local('Mangueira Alt Light'), local('MangueiraAlt-Light'),
+        url('MangueiraAlt-Light.eot?#iefix') format('embedded-opentype'),
+        url('MangueiraAlt-Light.woff2') format('woff2'),
+        url('MangueiraAlt-Light.woff') format('woff'),
+        url('MangueiraAlt-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira Alt';
+    src: url('MangueiraAlt-Heavy.eot');
+    src: local('Mangueira Alt Heavy'), local('MangueiraAlt-Heavy'),
+        url('MangueiraAlt-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('MangueiraAlt-Heavy.woff2') format('woff2'),
+        url('MangueiraAlt-Heavy.woff') format('woff'),
+        url('MangueiraAlt-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira Alt';
+    src: url('MangueiraAlt-Black.eot');
+    src: local('Mangueira Alt Black'), local('MangueiraAlt-Black'),
+        url('MangueiraAlt-Black.eot?#iefix') format('embedded-opentype'),
+        url('MangueiraAlt-Black.woff2') format('woff2'),
+        url('MangueiraAlt-Black.woff') format('woff'),
+        url('MangueiraAlt-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira Alt Extra';
+    src: url('MangueiraAlt-ExtraLight.eot');
+    src: local('Mangueira Alt Extra Light'), local('MangueiraAlt-ExtraLight'),
+        url('MangueiraAlt-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('MangueiraAlt-ExtraLight.woff2') format('woff2'),
+        url('MangueiraAlt-ExtraLight.woff') format('woff'),
+        url('MangueiraAlt-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira Alt';
+    src: url('MangueiraAlt-Regular.eot');
+    src: local('Mangueira Alt'), local('MangueiraAlt-Regular'),
+        url('MangueiraAlt-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MangueiraAlt-Regular.woff2') format('woff2'),
+        url('MangueiraAlt-Regular.woff') format('woff'),
+        url('MangueiraAlt-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira Alt Semi';
+    src: url('MangueiraAlt-SemiBold.eot');
+    src: local('Mangueira Alt Semi Bold'), local('MangueiraAlt-SemiBold'),
+        url('MangueiraAlt-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('MangueiraAlt-SemiBold.woff2') format('woff2'),
+        url('MangueiraAlt-SemiBold.woff') format('woff'),
+        url('MangueiraAlt-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira Alt';
+    src: url('MangueiraAlt-Bold.eot');
+    src: local('Mangueira Alt Bold'), local('MangueiraAlt-Bold'),
+        url('MangueiraAlt-Bold.eot?#iefix') format('embedded-opentype'),
+        url('MangueiraAlt-Bold.woff2') format('woff2'),
+        url('MangueiraAlt-Bold.woff') format('woff'),
+        url('MangueiraAlt-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira Alt';
+    src: url('MangueiraAlt-Medium.eot');
+    src: local('Mangueira Alt Medium'), local('MangueiraAlt-Medium'),
+        url('MangueiraAlt-Medium.eot?#iefix') format('embedded-opentype'),
+        url('MangueiraAlt-Medium.woff2') format('woff2'),
+        url('MangueiraAlt-Medium.woff') format('woff'),
+        url('MangueiraAlt-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira';
+    src: url('Mangueira-Light.eot');
+    src: local('Mangueira Light'), local('Mangueira-Light'),
+        url('Mangueira-Light.eot?#iefix') format('embedded-opentype'),
+        url('Mangueira-Light.woff2') format('woff2'),
+        url('Mangueira-Light.woff') format('woff'),
+        url('Mangueira-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira';
+    src: url('Mangueira-Heavy.eot');
+    src: local('Mangueira Heavy'), local('Mangueira-Heavy'),
+        url('Mangueira-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('Mangueira-Heavy.woff2') format('woff2'),
+        url('Mangueira-Heavy.woff') format('woff'),
+        url('Mangueira-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira';
+    src: url('Mangueira-Bold.eot');
+    src: local('Mangueira Bold'), local('Mangueira-Bold'),
+        url('Mangueira-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Mangueira-Bold.woff2') format('woff2'),
+        url('Mangueira-Bold.woff') format('woff'),
+        url('Mangueira-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira Extra';
+    src: url('Mangueira-ExtraLight.eot');
+    src: local('Mangueira Extra Light'), local('Mangueira-ExtraLight'),
+        url('Mangueira-ExtraLight.eot?#iefix') format('embedded-opentype'),
+        url('Mangueira-ExtraLight.woff2') format('woff2'),
+        url('Mangueira-ExtraLight.woff') format('woff'),
+        url('Mangueira-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira';
+    src: url('Mangueira-Medium.eot');
+    src: local('Mangueira Medium'), local('Mangueira-Medium'),
+        url('Mangueira-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Mangueira-Medium.woff2') format('woff2'),
+        url('Mangueira-Medium.woff') format('woff'),
+        url('Mangueira-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira Semi';
+    src: url('Mangueira-SemiBold.eot');
+    src: local('Mangueira Semi Bold'), local('Mangueira-SemiBold'),
+        url('Mangueira-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Mangueira-SemiBold.woff2') format('woff2'),
+        url('Mangueira-SemiBold.woff') format('woff'),
+        url('Mangueira-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira';
+    src: url('Mangueira-Regular.eot');
+    src: local('Mangueira'), local('Mangueira-Regular'),
+        url('Mangueira-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Mangueira-Regular.woff2') format('woff2'),
+        url('Mangueira-Regular.woff') format('woff'),
+        url('Mangueira-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Mangueira';
+    src: url('Mangueira-Thin.eot');
+    src: local('Mangueira Thin'), local('Mangueira-Thin'),
+        url('Mangueira-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Mangueira-Thin.woff2') format('woff2'),
+        url('Mangueira-Thin.woff') format('woff'),
+        url('Mangueira-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
